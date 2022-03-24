@@ -1,7 +1,7 @@
 Hi there ✌️
 
 - Desenvolvedor front-end Júnior
-- Em busca de aprender AngularJS e NodeJS
+- Em busca de aprender AngularJS, NodeJS e GraphQL
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael72-hue&show_icons=true&theme=dracula&inclued_all_commits=true&count_private=true" />
