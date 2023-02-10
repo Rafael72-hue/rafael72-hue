@@ -1,6 +1,6 @@
 Hi there ✌️
 
-- Desenvolvedor front-end Júnior
+- Desenvolvedor front-end
 - Em busca de aprender AngularJS, NodeJS e GraphQL
 
 <div>
